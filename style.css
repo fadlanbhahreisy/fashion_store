@@ -1,0 +1,21 @@
+.jumbotron{
+    background-image: url(asset/back.jpg);
+    background-size: cover;
+    height: 700px;
+    text-align: center;
+
+}
+.jumbotron .display-4{
+    color:white;
+    margin-top: 200px;
+}
+.jumbotron p{
+    color:white;
+    font-size: 50px;
+    font-weight: bold;
+}
+.jumbotron hr{
+    border-color: black;
+    width: 400px;
+    border-width: 3px;
+}
